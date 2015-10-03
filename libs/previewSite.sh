@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
-make html
+./libs/makeSiteFromTemplate.sh
 cd output
 python -m pelican.server
 cd ..
