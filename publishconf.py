@@ -20,6 +20,7 @@ DELETE_OUTPUT_DIRECTORY = True
 
 THEME = 'html5-dopetrope'
 
+LOAD_CONTENT_CACHE = False
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
