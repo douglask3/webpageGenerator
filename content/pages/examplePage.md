@@ -10,6 +10,9 @@ status: hidden
 
 This is the content of my super blog post.
 
+
+Links
+=====
 See below intra-site link examples in Markdown format.
 
 [a link relative to the current file to about me]({filename}about_me.md)
@@ -18,12 +21,21 @@ See below intra-site link examples in Markdown format.
 [a link relative to the content root about me]({filename}/pages/about_me.md)
 
 
+Images and Documents
+====================
 How to add in an image:
 ![A picture of me]({filename}/images/me.jpg)
 
 
 How to add in pdfs
 [My thesis]({filename}/docs/thesis.pdf)
+
+
+Code
+====
+
+Python
+-------
 
 There are two ways to specify the identifier:
 
