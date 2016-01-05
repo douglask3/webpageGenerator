@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Douglas Kelley'
 SITENAME = u'Douglas Kelley'
-SITEURL = ''
+SITEURL = 'http://douglask3.github.io'
 
 PATH = 'content'
 
@@ -31,11 +31,17 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 4
 
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'docs']
+
+#TEMPLATE_PAGES = {'html5-dopetrope/templates/index.html': 'output/test.html'}
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
 THEME = 'html5-dopetrope'
-
+#TYPOGRIFY = True
 LOAD_CONTENT_CACHE = False
+
+DEFAULT_METADATA = {
+    'status': 'draft',
+}
