@@ -54,7 +54,3 @@ and
 
     #!r
     print("The path-less shebang syntax *will* show line numbers.")
-
-
-    #!python
-    print("The path-less shebang syntax *will* show line numbers.")
