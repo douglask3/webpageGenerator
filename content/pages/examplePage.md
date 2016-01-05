@@ -44,5 +44,17 @@ There are two ways to specify the identifier:
 
 To display line numbers, use a path-less shebang instead of colons:
 
+R
+-
+
+    :::r
+    print("The triple-colon syntax will *not* show line numbers.")
+
+and
+
+    #!r
+    print("The path-less shebang syntax *will* show line numbers.")
+
+
     #!python
     print("The path-less shebang syntax *will* show line numbers.")
