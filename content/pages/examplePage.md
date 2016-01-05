@@ -16,3 +16,11 @@ See below intra-site link examples in Markdown format.
 
 
 [a link relative to the content root about me]({filename}/pages/about_me.md)
+
+
+How to add in an image:
+![A picture of me]({filename}/images/me.jpg)
+
+
+How to add in pdfs
+[My thesis]({filename}/docs/thesis.pdf)
