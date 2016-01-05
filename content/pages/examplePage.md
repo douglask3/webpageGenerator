@@ -9,3 +9,10 @@ Summary: Short version for index and feeds
 status: hidden
 
 This is the content of my super blog post.
+
+See below intra-site link examples in Markdown format.
+
+[a link relative to the current file to about me]({filename}about_me.md)
+
+
+[a link relative to the content root about me]({filename}/pages/about_me.md)
