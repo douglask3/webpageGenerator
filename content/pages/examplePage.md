@@ -6,6 +6,7 @@ Tags: pelican, publishing
 Slug: my-super-post
 Authors: Alexis Metaireau, Conan Doyle
 Summary: Short version for index and feeds
+Picture: https://farm8.staticflickr.com/7644/17040573311_588b355f23_h.jpg
 status: hidden
 
 This is the content of my super blog post.
