@@ -30,6 +30,11 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
+
+FACEBOOK_USER = "doug.kelley.94"
+GOOGLEPLUS_USER = "106202150476902967942"
+MAIL = "d.kelley@reading.ac.uk"
+
 DEFAULT_PAGINATION = 4
 
 STATIC_PATHS = ['images', 'docs']
