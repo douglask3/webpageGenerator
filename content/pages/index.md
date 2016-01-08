@@ -7,11 +7,10 @@ status: hidden
     <section>
         <div class="4u", style = "padding:1em;">
             <section class="box">
-                <a href=" " class="image image-full"><img src=" " alt=""/></a>
+                <a href="{filename}/pages/research.md" class="image image-full"><img src="{filename}/images/TreeProtractor.png"/></a>
                 <header>
                     <hr>
-                    <h2>Title</h2>
-                    <span class="byline">Date</span>
+                    <h2>Research</h2>
                     <hr>
                 </header>
                 Summary
@@ -22,11 +21,10 @@ status: hidden
         </div>
         <div class="4u", style = "padding:1em;">
             <section class="box">
-                <a href=" " class="image image-full"><img src=" " alt=""/></a>
+                <a href="{filename}/pages/running.md" class="image image-full"><img src="{filename}/images/NewarkHalfCropped.jpg"/></a>
                 <header>
                     <hr>
-                    <h2>Title</h2>
-                    <span class="byline">Date</span>
+                    <h2>Running</h2>
                     <hr>
                 </header>
                 Summary
@@ -37,11 +35,10 @@ status: hidden
         </div>
         <div class="4u", style = "padding:1em;">
             <section class="box">
-                <a href=" " class="image image-full"><img src=" " alt=""/></a>
+                <a href="{filename}/pages/rest.md" class="image image-full"><img src="{filename}/images/Upper_Eskdale.jpg"/></a>
                 <header>
                     <hr>
-                    <h2>Title</h2>
-                    <span class="byline">Date</span>
+                    <h2>Rest</h2>
                     <hr>
                 </header>
                 Summary
