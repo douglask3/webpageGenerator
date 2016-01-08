@@ -1,6 +1,7 @@
 Title: Test Page
 Date: 2015-10-01 16:31
 Picture: https://farm8.staticflickr.com/7644/17040573311_588b355f23_h.jpg
+Template: page_left_feed
 status: hidden
 
 
