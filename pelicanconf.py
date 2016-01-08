@@ -39,8 +39,7 @@ DEFAULT_PAGINATION = 4
 
 STATIC_PATHS = ['images', 'docs']
 
-#TEMPLATE_PAGES = {'html5-dopetrope/templates/index.html': 'output/test.html'}
-
+#TEMPLATE_PAGES = {'/home/doug/Documents2/webpageGenerator/html5-dopetrope/templates/content_at_top.html': 'dest/photography.html'}
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
@@ -51,3 +50,7 @@ LOAD_CONTENT_CACHE = False
 DEFAULT_METADATA = {
     'status': 'draft',
 }
+
+
+DIRECT_TEMPLATES = (('index', 'blog', 'tags', 'categories', 'archives'))
+PAGINATED_DIRECT_TEMPLATES = (('blog',))
