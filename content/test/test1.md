@@ -1,6 +1,6 @@
 Title: Test1
 Date: 2015-10-01 16:31
-Category: test
+Category: Test Page
 status: published
 picture: https://farm1.staticflickr.com/750/22500032806_e1e7d85a8d_m.jpg
 tag: Test Page

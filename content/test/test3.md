@@ -1,6 +1,6 @@
 Title: Test3
 Date: 2015-10-01 16:31
-Category: test
+Category: Test Page
 status: published
 tag: Test Page
 
