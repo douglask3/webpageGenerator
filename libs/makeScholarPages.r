@@ -1,10 +1,4 @@
 #!/usr/bin/env r
-source('libs/googleScholarGrab/MakePublicationDocument.r')
-
-files = list.files('content/scholarGenerated/', full.names = TRUE)
-
-files = sapply(files, source)
-files = unlist(files[1,])
 
 ignoreFile = '.gitignore'
 ignoreLine = '## Scholar Generated Files Automatically added between these two lines ##'
@@ -21,7 +15,19 @@ for (i in 1:length(test))
 
 testN = which(testN==1)
 testN = c(testN, tail(testN,1)+1)
-if (length(testN>0)) d = d[-testN]
+if (length(testN>0)) {
+    removeFiles = d[testN]
+    removeFiles = head(removeFiles[-1],-1)
+    lapply(removeFiles, unlink)
+    d = d[-testN]
+}
+
+source('libs/googleScholarGrab/MakePublicationDocument.r')
+
+files = list.files('content/scholarGenerated/', full.names = TRUE)
+
+files = sapply(files, source)
+files = unlist(files[1,])
 
 d = c(d,ignoreLine, files, ignoreLine)
 
