@@ -44,7 +44,7 @@ textFormat  = c('', '')
 
 footer = ''
 
-outputFile = 'content/publications/publications2.md'
+outputFile = 'content/publications/LPX.md'
 
 MakePublicationDocument(c('Douglas Kelley' = 'AJKyfI4AAAAJ'), FALSE,
                         header, cnameExtra, cnameFormat,
