@@ -3,9 +3,10 @@ header = 'Title: Publications
 Date: 2015-10-01 16:31
 Category: Research
 status: published
+Template: page_top_feed
 
 <hr class="title">
-    <h1 align="center"> Publication List </h1>
+    <h2> Publication List </h2>
 <hr class="title">
 '
 
