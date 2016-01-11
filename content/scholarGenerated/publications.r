@@ -13,8 +13,8 @@ cnameExtra  = '<hr> &nbsp;'
 cnameFormat = c('&nbsp; <h3 class = "publication">', '</h3> &nbsp;')
 pubSep      = '<hr>'
 titleFormat = c('<h3 class = "publication">', '</h3>')
-citeFormat  = c('&nbsp;', '')
-yearFormat  = c('&nbsp;', '')
+citeFormat  = c('', '')
+yearFormat  = c('', '')
 textFormat  = c('', '')
 
 footer = ''
