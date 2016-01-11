@@ -49,4 +49,4 @@ outputFile = 'content/publications/publications2.md'
 MakePublicationDocument(c('Douglas Kelley' = 'AJKyfI4AAAAJ'), FALSE,
                         header, cnameExtra, cnameFormat,
                         pubSep, titleFormat, citeFormat, yearFormat, textFormat,
-                        footer, outputFile)
+                        footer, outputFile, 'qjMakFHDy7sC')
