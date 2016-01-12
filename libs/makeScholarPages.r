@@ -1,5 +1,8 @@
 #!/usr/bin/env r
 
+source('libs/googleScholarGrab/MakePublicationDocument.r')
+source('libs/googleScholarGrab/MakeUserProfile.r')
+
 ignoreFile = '.gitignore'
 ignoreLine = '## Scholar Generated Files Automatically added between these two lines ##'
 if (!file.exists(ignoreFile)) cat('',file='.gitignore')
@@ -21,8 +24,6 @@ if (length(testN>0)) {
     lapply(removeFiles, unlink)
     d = d[-testN]
 }
-
-source('libs/googleScholarGrab/MakePublicationDocument.r')
 
 files = list.files('content/scholarGenerated/', full.names = TRUE)
 
