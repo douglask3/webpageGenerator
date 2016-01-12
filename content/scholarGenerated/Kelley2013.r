@@ -47,7 +47,7 @@ footer = ''
 
 outputFile = 'content/publications/Kelley2013.md'
 
-MakePublicationDocument(c('Douglas Kelley' = 'AJKyfI4AAAAJ'), FALSE,
+MakePublicationDocument(c('Douglas Kelley' = 'AJKyfI4AAAAJ'), NULL,
                         header, cnameExtra, cnameFormat,
                         pubSep, titleFormat, citeFormat, yearFormat, textFormat,
                         footer, outputFile, '9yKSN-GCB0IC')
