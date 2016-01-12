@@ -35,7 +35,7 @@ FACEBOOK_USER = "doug.kelley.94"
 GOOGLEPLUS_USER = "106202150476902967942"
 MAIL = "d.kelley@reading.ac.uk"
 
-DEFAULT_PAGINATION = 4
+DEFAULT_PAGINATION = 6
 
 STATIC_PATHS = ['images', 'docs']
 
