@@ -1,3 +1,15 @@
 *.pyc
 output/*
 libs/googleScholarGrab*
+## Scholar Generated Files Automatically added between these two lines ##
+content/publications/Ciais2012.md
+content/publications/HarrisonACEAS.md
+content/publications/Kaminski2013.md
+content/publications/Kelley2013.md
+content/publications/LPX-Mv1.md
+content/publications/AustCarbonFuture.md
+content/publications/KelleyAGU2013.md
+content/publications/LPX.md
+content/pages/publications.md
+content/publications/Zeppel2015.md
+## Scholar Generated Files Automatically added between these two lines ##
