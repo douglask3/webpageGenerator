@@ -1,4 +1,4 @@
-Title: Research and Interests
+Title: Research Interests
 Date: 2015-10-01 16:30
 Category: Research
 status: published
