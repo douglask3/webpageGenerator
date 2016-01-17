@@ -51,6 +51,8 @@ DEFAULT_METADATA = {
     'status': 'draft',
 }
 
+ABOUT_IMAGE = "https://farm8.staticflickr.com/7616/16733887659_129c93f4f2_k_d.jpg"
+
 
 DIRECT_TEMPLATES = (('index', 'blog', 'tags', 'categories', 'archives'))
 PAGINATED_DIRECT_TEMPLATES = (('blog',))
