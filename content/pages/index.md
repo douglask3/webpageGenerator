@@ -14,6 +14,8 @@ status: hidden
                     <hr>
                 </header>
                 Summary
+                <div class="github-card" data-user="douglask3" data-width="100%" data-target="blank"></div>
+                <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
                 <footer class="actions">
                     <a href=" " class="button button-icon button-icon-1">Continue Reading</a>
                 </footer>
