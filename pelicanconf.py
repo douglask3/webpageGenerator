@@ -40,18 +40,10 @@ FLICKR_USER = "doug_from_the_uk"
 
 MAIL = "d.kelley@reading.ac.uk"
 ADDRESS = "Douglas Kelley <br> Department of Geography and Environmental Science <br> School of Archaeology, Geography and Environmental Science <br> The University of Reading <br> Whiteknights, PO Box 227 <br> Reading <br> RG6 6AB <br> UK"
-#ADDRESS = (('Douglas Kelley', '#'),
-#          ('Department of Geography and Environmental Science', '#'),
-#          ('School of Archaeology', '#'),
-#          ('Geography and Environmental Science', '#'),
-#          ('The University of Reading', '#'),
-#          ('Whiteknights', '#'),
-#          ('PO Box 227', '#'),
-#          ('Reading', '#'),
-#          ('RG6 6AB, '#'),
-#          ('UK', '#'),)
 
 DEFAULT_PAGINATION = 6
+DEFAULT_DATE_FORMAT = '%d %B %Y'
+
 
 STATIC_PATHS = ['images', 'docs']
 
@@ -73,3 +65,17 @@ ABOUT_TEXT = "Postdoctoral Research Fellow in vegetation proccess and fire dynam
 
 DIRECT_TEMPLATES = (('index', 'blog', 'tags', 'categories', 'archives'))
 PAGINATED_DIRECT_TEMPLATES = (('blog',))
+
+DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = False
+
+MENUITEMS = (
+    ('HOME', '/'),
+    ('About Me ', '/pages/about-me.html'),
+    ('Research Interests', '/pages/research-interests.html'),
+    ('Publications', '/pages/publications.html'),
+    ('Tools', '/pages/tools.html'),
+    ('Photography', '/pages/photography.html'),
+    ('Running', '/pages/running.html'),
+    ('Contact', '#contact'),
+)
