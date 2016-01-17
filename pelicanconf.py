@@ -24,16 +24,32 @@ DEFAULT_CATEGORY = 'misc'
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+         ('html5-dopetrope', 'https://github.com/PierrePaul/html5-dopetrope'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
 
+
 FACEBOOK_USER = "doug.kelley.94"
 GOOGLEPLUS_USER = "106202150476902967942"
+GITHUB_USER = "douglask3"
+BITBUCKET_USER = "douglask3"
+FLICKR_USER = "doug_from_the_uk"
+
 MAIL = "d.kelley@reading.ac.uk"
+ADDRESS = "Douglas Kelley <br> Department of Geography and Environmental Science <br> School of Archaeology, Geography and Environmental Science <br> The University of Reading <br> Whiteknights, PO Box 227 <br> Reading <br> RG6 6AB <br> UK"
+#ADDRESS = (('Douglas Kelley', '#'),
+#          ('Department of Geography and Environmental Science', '#'),
+#          ('School of Archaeology', '#'),
+#          ('Geography and Environmental Science', '#'),
+#          ('The University of Reading', '#'),
+#          ('Whiteknights', '#'),
+#          ('PO Box 227', '#'),
+#          ('Reading', '#'),
+#          ('RG6 6AB, '#'),
+#          ('UK', '#'),)
 
 DEFAULT_PAGINATION = 6
 
@@ -51,7 +67,8 @@ DEFAULT_METADATA = {
     'status': 'draft',
 }
 
-ABOUT_IMAGE = "https://farm8.staticflickr.com/7616/16733887659_129c93f4f2_k_d.jpg"
+ABOUT_IMAGE = "http://www.zastavki.com/pictures/1600x1200/2008/Drawn_wallpapers_Leaf_X-ray_008117_.jpg"
+ABOUT_TEXT = "Postdoctoral Research Fellow in vegetation proccess and fire dynamic"
 
 
 DIRECT_TEMPLATES = (('index', 'blog', 'tags', 'categories', 'archives'))
