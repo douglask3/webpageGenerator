@@ -70,12 +70,14 @@ University of Reading, UK.*
 
 ### Current Research Interests
 
-Doug is a Postdoctoral Research Fellow working with the Climate And Forest Ecosystem Modelling and Biosphere and Climate Dynamic groups at Macquarie University. His research focuses on modelling the interactions between wildfire, climate and vegetation. In addition, he is also working on plant resource allocation strategies. He is particularly interested in ways vegetation resist and recover after fire, and the wider implications this has on the carbon cycle and hydrology.
+Vegetation-climate dynamics and ecosystem modelling, including:
+<br>-&nbsp;&nbsp;&nbsp;&nbsp; Fire dynamics and fire--climate--vegetation interactions.
+<br>-&nbsp;&nbsp;&nbsp;&nbsp; Wildfire impacts (on e.g vegetation, carbon-cycle, hydrology)
+<br>-&nbsp;&nbsp;&nbsp;&nbsp; Vegetation disturbance resistance and recovery
+<br>-&nbsp;&nbsp;&nbsp;&nbsp; Plant resource allocation strategies.
 
 
-
-
-
+<hr>
 
 
 
