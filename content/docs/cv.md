@@ -1,6 +1,5 @@
-Title: CV
-Date: 2016-01-02 17:30
-status: hidden
+
+<a href="javascript:history.back()">Go Back to website</a>
 
 # Douglas Kelley
 ## Vegetation modeller
