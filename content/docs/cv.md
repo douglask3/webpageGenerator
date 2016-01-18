@@ -4,7 +4,7 @@
 # Douglas Kelley
 ## Vegetation modeller
 
-> [Download PDF](resume.pdf)  
+> [Download PDF](/docs/cv.pdf)  
 > [douglas.i.kelley@gmail.com](douglas.i.kelley@gmail.com)  
 > +44 (0) 7936 726 819
 

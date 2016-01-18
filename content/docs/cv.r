@@ -1,14 +1,16 @@
-fileIn = 'content/docs/cv.md'
-fileOut = 'content/temp/cv.md'
-usrID  = c('Douglas Kelley' = 'AJKyfI4AAAAJ')
+fileIn      = 'content/docs/cv.md'
+fileTemp    = 'content/temp/cv.md'
+
+fileHtmlOut = 'output/pages/'
+filePdfOut  = 'output/docs/'
+usrID       = c('Douglas Kelley' = 'AJKyfI4AAAAJ')
 
 
 ## Open and Initailise
 doc   = readLines(fileIn)
 
-outDir = paste(head(strsplit(fileOut, '/')[[1]],-1,), collapse = '/')
+outDir = paste(head(strsplit(fileTemp, '/')[[1]],-1,), collapse = '/')
 dir.create(outDir, showWarnings = FALSE)
-
 
 ## Citation info
 id = "<<Citation info>>"
@@ -39,7 +41,9 @@ info = MakePublicationDocument.list(usrID, NULL, outputFile = NULL)
 doc[grepl(id, doc)] = info
 
 
-cat(doc, file = fileOut, sep = "\n")
-command = paste('./../markdown-resume/bin/md2resume html', fileOut, 'docs')
+cat(doc, file = fileTemp, sep = "\n")
+command = paste('./../markdown-resume/bin/md2resume html', fileTemp, fileHtmlOut)
+system(command)
 
+command = paste('./../markdown-resume/bin/md2resume pdf', fileTemp, filePdfOut)
 system(command)
