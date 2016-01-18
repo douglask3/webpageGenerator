@@ -1,5 +1,6 @@
 *.pyc
 output/*
+content/temp/*
 libs/googleScholarGrab*
 ## Scholar Generated Files Automatically added between these two lines ##
 content/publications/Ciais2012.md

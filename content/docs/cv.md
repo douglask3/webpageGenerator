@@ -49,9 +49,9 @@ University of Reading, UK.*
 ------
 
 ### Publications
-* Refereed papers: 7
-* H-score: 6
-* Total citations: 189
+
+<<Citation info>>
+
 
 ------
 
@@ -194,7 +194,11 @@ Doug is a Postdoctoral Research Fellow working with the Climate And Forest Ecosy
 
 ### Publications
 
-In Review, published
+<<Citation info>>
+<<Publication info>>
+
+
+#### In review
 
 Doug is a Postdoctoral Research Fellow working with the Climate And Forest Ecosystem Modelling and Biosphere and Climate Dynamic groups at Macquarie University. His research focuses on modelling the interactions between wildfire, climate and vegetation. In addition, he is also working on plant resource allocation strategies. He is particularly interested in ways vegetation resist and recover after fire, and the wider implications this has on the carbon cycle and hydrology.
 
