@@ -7,7 +7,7 @@ usrID  = c('Douglas Kelley' = 'AJKyfI4AAAAJ')
 doc   = readLines(fileIn)
 
 outDir = paste(head(strsplit(fileOut, '/')[[1]],-1,), collapse = '/')
-if (!dir.exists(outDir)) dir.create(outDir)
+dir.create(outDir, showWarnings = FALSE)
 
 
 ## Citation info
