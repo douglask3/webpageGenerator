@@ -129,20 +129,19 @@ Vegetation-climate dynamics and ecosystem modelling, including:
 : *[Macquarie University, Department of Biological Sciences, Ryde, NSW, Australia](http://bcd.mq.edu.au/?page_id=171)
 [Modelling Australian fire regimes](http://bcd.mq.edu.au/?p=361)*
   __2010-2014__
-  Benchmarking and developing the LPX Dynamic Global Vegetation Model (DGVM) to improve the simulation of fire and fire-vegetation interacting. Using this new version of LPX to simulate fire, vegetation and carbon dynamics in Australia over the 21\textsuperscript{st} century
-
+  Benchmarking and developing the LPX Dynamic Global Vegetation Model (DGVM) to improve the simulation of fire and fire-vegetation interacting. Using this new version of LPX to simulate fire, vegetation and carbon dynamics in Australia over the 21st century. Thesis can be downloaded from [goo.gl/9YjwKw](goo.gl/9YjwKw)
 
 [MSc Earth System Science](http://www.bristol.ac.uk/cabot/postgrad/msc-ccsp.html)
 : *[University of Bristol, Department of Earth Sciences, UK](http://www.bristol.ac.uk/earthsciences/)*
   __2007-2008__
-  *Main dissertation: Statistical modelling of global fire regimes.*
-  Other subjects covered: Climate change science and policy; Earth system modelling; Natural hazards; Remote sensing & GIS; Isotopes and other Earth System tracers
+  *Main dissertation: Wildfires as part of the global carbon cycle: Quantitative analysis using data assimilation*
+  Other subjects covered: Earth system modelling; Natural hazards; Remote sensing & GIS; Isotopes and other Earth System tracers; Climate change science and policy
 
 
 [BSc (Hons.) Physics](http://www2.warwick.ac.uk/study/undergraduate/courses/f300)
 : *[University of Bristol, Department of Earth Sciences, UK](http://www.bristol.ac.uk/earthsciences/)*
   __2002-2007__
-  *Main dissertation: Modelling atmospheric effects on starlight.*
+  *Main dissertation: Modelling atmospheric effects on starlight*
 
 ------
 
@@ -152,23 +151,22 @@ Postdoctoral Research Assistant
 : *[Department of Geography & Environmental Science,
 University of Reading, UK.](https://www.reading.ac.uk/geographyandenvironmentalscience/)*
   __April 2015-present__
-  Job description
+  Simulating present and future fire regimes using coupled dynamic global vegetation model (DGVM) and process based fire model.
 
 Postdoctoral Research Assistant
 : *[Cafe M Research Group, Department of Biological Sciences, Macquarie University, Ryde, NSW, Australia](https://bmedlyn.wordpress.com/)*
   __Oct 2014-Apr 2015__
-  Testing conceptual phenology and plant carbon allocation models within vegetation process models
+  Testing conceptual phenology and plant carbon allocation models under changing climate and elevated CO2 fertilization.
 
 Research Assistant
 : *[Department of Biological Sciences, Macquarie University, Ryde, NSW, Australia](http://www.mq.edu.au/about/about-the-university/faculties-and-departments/faculty-of-science-and-engineering/departments-and-centres/department-of-biological-sciences)*
   __Jun 2014-Sep 2014__
-  Modelling past and future fire regime changes and its feedback on vegetation
-  Testing conceptual phenology and plant carbon allocation models within vegetation process models
+  Modelling changes on past and future vegetation-fire dynamics and its feedback on terrestial and atmospheric carbon.
 
 Research Assistant
 : *[Department of Geographical Sciences, University of Bristol, UK](http://www.bristol.ac.uk/geography/)*
   __Sep 2008-Sep 2010__
-  DGVM fire model development. Applying developed model to: test to effectiveness of different fire management techniques in current and future climates; simulate paleo vegetation and carbon stocks.
+  DGVM-fire model development. Applying developed model to: test to effectiveness of different fire management techniques in current and future climates; simulate paleo vegetation and carbon stocks.
 
 [Earth System Science Summer School coordinator](http://www.greencycles.org/greencycles1/ES4%20flyer_2008.pdf)
 : *[Department of Earth Sciences, University of Bristol, UK](http://www.bristol.ac.uk/earthsciences/)*
@@ -185,22 +183,24 @@ Widening Participation
 
 ### Current Research Interests
 
+Need to change
 Doug is a Postdoctoral Research Fellow working with the Climate And Forest Ecosystem Modelling and Biosphere and Climate Dynamic groups at Macquarie University. His research focuses on modelling the interactions between wildfire, climate and vegetation. In addition, he is also working on plant resource allocation strategies. He is particularly interested in ways vegetation resist and recover after fire, and the wider implications this has on the carbon cycle and hydrology.
 
 
 ------
 
 
-### Publications
+### Published Papers
 
 <<Citation info>>
 <<Publication info>>
 
 
-#### In review
+### Papers in Review
 
-Doug is a Postdoctoral Research Fellow working with the Climate And Forest Ecosystem Modelling and Biosphere and Climate Dynamic groups at Macquarie University. His research focuses on modelling the interactions between wildfire, climate and vegetation. In addition, he is also working on plant resource allocation strategies. He is particularly interested in ways vegetation resist and recover after fire, and the wider implications this has on the carbon cycle and hydrology.
-
+: *Harrison, S. P. and Kelley, D. I.: Projected changes in Australian fire regimes during the 21st century and consequences for ecosystem, International Journal of Wildland Fire*
+: *Hantson, S., Arneth, A., Harrison, S. P., Kelley, D. I., Prentice, I. C., Rabin, S. S., Archibald, S. ...: Projected changes in Australian fire regimes during the 21st century and consequences for ecosystem, Biogeosciences, bg-2016-17*
+: *Ukkola, A, Keenan, T, Kelley, D. I., Prentice, I. C., Vegetation buffers the water-resource impacts of environmental change in regions with declining precipitation, Environmental Research Letters, ERL-102203*
 
 ------
 
@@ -263,7 +263,6 @@ Visits and Internal Presentations
 : __Aug 2011__
 Effective questioning, encouraging equal participation, and managing student  behaviour.
 
-
 Planning and writing journal articles
 : __Nov 2009__
 Planning articles to fit journals
@@ -293,56 +292,42 @@ Awarded for presentation on a vegetation model benchmarking system}
 
 ### Skills {#skills}
 
-Need to replace
-
-* Web Design
-  : Assertively exploit wireless initiatives rather than synergistic core competencies.
-
-* Interface Design
-  : Credibly streamline mission-critical value with multifunctional functionalities.
-
-* Project Direction
-  : Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
 
 
-* My Cool Side Project
-  :   For items which don't have a clear time ordering, a definition
-      list can be used to have named items.
+Modelling
+  : I have been lead developer on LPX - a high-complaexity coupled Dynamic Vegetation-Fire Model - since 2009. LPX has both Fortran and C++ components for fast (relive to it's complexity) computational times. I have recently also added a shell and R interface to fasilitate parrallization and to allow results to be easily plotted and analysed.
 
-      * These items can also contain lists, but you need to mind the
-        indentation levels in the markdown source.
-      * Second item.
+      * See [douglask3.github.io/LPX.html](http://douglask3.gitgub.io/LPX.html) for more information.
 
-* Open Source
-  :   List open source contributions here, perhaps placing emphasis on
-      the project names, for example the **Linux Kernel**, where you
-      implemented multithreading over a long weekend, or **node.js**
-      (with [link](http://nodejs.org)) which was actually totally
-      your idea...
+Statistical Programming
+  : Most of my research involves statistical anaylsis of large datasets and model outputs. Collaboration on many of my projects means I am fluent in most widely used statistical programming languages. Most of my work is in either R, python and matlab, but I have also performed graphical and statitical analysis using Fotran and C amongst others.
 
-* Web Design
-  : Assertively exploit wireless initiatives rather than synergistic core competencies.
+      * See [douglas.github.io/my_best_plots.html](http://douglas.github.io/my_best_plots.html) for examples of R and matlab plots from my PhD.
+      * See [bitbucket.org/douglask3/lpxbenchmarking](https://bitbucket.org/douglask3/lpxbenchmarking) for an example of statistical benchmarking of extensive model outputs again global raster and site-based datasets.
+
+Web Design
+  : In my spare time, I have developed dynamic websites using open source content management system. My personal site is on a static host, but is maintained using a python based dynamic-site emulator. Developing and maintaining these sites have allowed me to become familiar with many contengt managment systems (i.e. wordpress, concrete5 etc) and fluent in HTML/CSS, PHP and Markdown. I have linked Markdown with R and python when sharing and presenting results from model development and anlaysis.
+        * See [eppingdac.com.au](http://www.eppingdac.com.au/), an example of a website I have developed using Concrete5 Content Managment System
+        * See [douglask3.github.io](http://douglask3.gothub.io), and exmaple of a website produced using a simple dynamic-site emulator.
+
+Publishing
+  : As well has publishing papers, I have also written manuals, reports and newletters using a variety of languages and software products, including (aside from standard office/open office):
+    * Latex - this includes my thesis (available <<>>)
+    * Scribus - for example, my running clubs newsletter ([eppingdac.com.au/news-and-views/newsletter](http://www.eppingdac.com.au/news-and-views/newsletter/)]
+    * Photoshop/Illistrator and GIMP (the open source equivalent). See [flickr.com/doug_from_the_uk](http://flickr.com/doug_from_the_uk) for examples of graphical art and photo 'touch ups', manipulation.
+
 
 -------
 
-### Technical {#technical} Expand on main
+### Software Tool
+Collaborations on various projects has lead me to develop software packages to share across projects teams.
+Some these perform statistical model-comparisons; others run vegetation models themselves, and some help keep track for workflows and provenance when using a version control system model.
+Below are some of the most used software packages. More detail can be doun at [douglask3.github.io/tools](http://douglask3.github.io/tools), while an exhustive list can be found on my bitbucket and github repository pages detailed in the contact section.
 
-* Programming
-  : Fortran
-  : C
-  : C++
-  : R
-  : python
-  : Matlab
-  : VB
-  : sql
+[Software Carpentry](http://software-carpentry.org/)
+: __Feb 2013__
+  Programming philosophy, code structure and version control
 
-* Publishing
-  : XHTML
-  : CSS
-  : PHP
-  : Latex
-  : Markdown
 
 * Other stuff
   : OS X
@@ -350,12 +335,6 @@ Need to replace
   : Linux
   : CVS / Subversion
   : [git](https://bitbucket.org/douglask3)
-
-* Software
-  : GIMP
-  : Scribus
-  : Photoshop/Illustrator
-  : Standard office/Open office
 
 ------
 
