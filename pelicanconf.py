@@ -71,7 +71,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 
 MENUITEMS = (
     ('HOME', '/'),
-    ('About Me ', '/pages/about-me.html'),
+    ('CV', '/pages/cv.html'),
     ('Research Interests', '/pages/research-interests.html'),
     ('Publications', '/pages/publications.html'),
     ('Tools', '/pages/tools.html'),
