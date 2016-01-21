@@ -20,7 +20,11 @@ status: hidden
                     <section class="box">
                         <header>
                             <hr>
-                                <h2> Current Projects </h2>
+                            <h2>
+                                <a href="{filename}/pages/research.md">
+                                    Current Projects
+                                </a>
+                            </h2>
                             <hr>
                         </header>
                         <a href="{filename}/pages/research.md" class="image image-full"><img src="{filename}/images/TreeProtractor.png"/></a>
@@ -28,12 +32,12 @@ status: hidden
                             <tr>
                                 <td>
                                     <footer class = "index" style="padding-right:0.25em;">
-                                        <a href="http://douglask3.github.io/pages/research-interests.html" class="button button-icon-1"> Research Interests </a>
+                                        <a href="{filename}/pages/research.md" class="button button-icon-1"> Research Interests </a>
                                     </footer>
                                 </td>
                                 <td>
                                     <footer class = "index" style="padding-right:0.25em;">
-                                        <a href="http://douglask3.github.io/pages/research-interests.html" class="button button-icon-1"> Current Projects </a>
+                                        <a href="{filename}/pages/research.md" class="button button-icon-1"> Current Projects </a>
                                     </footer>
                                 </td>
                             </tr>
@@ -43,19 +47,23 @@ status: hidden
                 <div class="12u", style = "padding-bottom:0.67em;">
                     <section class="box">
                         <hr>
-                            <h2> Publications </h2>
+                            <h2>
+                                <a href="{filename}/pages/publications.md">
+                                    Publications
+                                </a>
+                            </h2>
                         <hr>
-                        <a href="{filename}/pages/research.md" class="image image-full"><img src="{filename}/images/ThesisCh2-fig4b.png"/></a>
+                        <a href="{filename}/pages/publications.md" class="image image-full"><img src="{filename}/images/ThesisCh2-fig4b.png"/></a>
                         <table style="width:100%;">
                             <tr>
                                 <td>
                                     <footer class="index" style = "padding-right: 0.25em">
-                                        <a href="http://douglask3.github.io/pages/publications.html" class="button button-icon-1"> Latest papers</a>
+                                        <a href="http://douglask3.github.io/category/publications.html" class="button button-icon-1"> Latest papers</a>
                                     </footer>
                                 </td>
                                 <td>
                                     <footer class="index" style = "padding-left: 0.25em">
-                                        <a href="http://douglask3.github.io/pages/publications.html" class="button button-icon-1"> Publication archive </a>
+                                        <a href="{filename}/pages/publications.md" class="button button-icon-1"> Publication archive </a>
                                     </footer>
                                 </td>
                             </tr>
@@ -69,7 +77,7 @@ status: hidden
                 </div>
                 <div class="6u", style = "padding-left:0.25em;">
                     <footer class="index">
-                        <a href="http://douglask3.github.io/pages/tools.html" class="button-Index button-icon-1"> Tools & Code</a>
+                        <a href="{filename}/pages/tools.md" class="button-Index button-icon-1"> Tools & Code</a>
                     </footer>
                 </div>
             </section>
@@ -89,19 +97,23 @@ status: hidden
                     <section class="box">
                         <header>
                             <hr>
-                                <h2> Racing & Training <h2>
+                                <h2>
+                                    <a href="{filename}/pages/running.md">
+                                        Racing & Training
+                                    </a>
+                                </h2>
                             <hr>
                         </header>
                         <a href="{filename}/pages/running.md" class="image image-full"><img src="{filename}/images/NewarkHalfCropped.jpg"/></a>
                         <table style="width:100%;">
                             <tr>
                                 <footer class="index" style = "padding-bottom: 0.33em">
-                                    <a href="http://douglask3.github.io/pages/publications.html" class="button-Index button-icon-1"> Races </a>
+                                    <a href="{filename}/pages/running.md" class="button-Index button-icon-1"> Races </a>
                                 </footer>
                             </tr>
                             <tr>
                                 <footer class="index" style = "padding-top: 0.33em">
-                                    <a href="http://douglask3.github.io/pages/publications.html" class="button-Index button-icon-1"> Training </a>
+                                    <a href="{filename}/running/training.md" class="button-Index button-icon-1"> Training </a>
                                 </footer>
                             </tr>
                         </table>
@@ -118,17 +130,17 @@ status: hidden
                         <table style="width:100%;">
                             <tr>
                                 <footer class="index" style = "padding-bottom: 0.33em">
-                                    <a href="http://douglask3.github.io/pages/publications.html" class="button-Index button-icon-1"> For Running </a>
+                                    <a href="{filename}/running/running-adventures.md" class="button-Index button-icon-1"> For Running </a>
                                 </footer>
                             </tr>
                             <tr>
                                 <footer class="index" style = "padding-top: 0.33em">
-                                    <a href="http://douglask3.github.io/pages/publications.html" class="button-Index button-icon-1"> For Hiking </a>
+                                    <a href="{filename}/running/hiking-adventures.md" class="button-Index button-icon-1"> For Hiking </a>
                                 </footer>
                             </tr>
                             <tr>
                                 <footer class="index" style = "padding-top: 0.33em">
-                                    <a href="http://douglask3.github.io/pages/publications.html" class="button-Index button-icon-1"> For Cycling </a>
+                                    <a href="{filename}/running/cycling-adventures.md" class="button-Index button-icon-1"> For Cycling </a>
                                 </footer>
                             </tr>
                         </table>
@@ -151,21 +163,25 @@ status: hidden
                     <section class="box">
                         <header>
                             <hr>
-                                <h2> Photography </h2>
+                                <h2>
+                                    <a href="{filename}/pages/photography.md">  
+                                        Photography
+                                    </a>
+                                </h2>
                             <hr>
                         </header>
-                        <a href="{filename}/pages/rest.md" class="image image-full"><img src="{filename}/images/Upper_Eskdale.jpg"/></a>
+                        <a href="{filename}/pages/photography.md" class="image image-full"><img src="{filename}/images/Upper_Eskdale.jpg"/></a>
                         <br>
                         <table style="width:100%;">
                             <tr>
                                 <td>
                                     <footer class="index">
-                                        <a href="https://www.flickr.com/photos/doug_from_the_uk" class="button button-icon-1"> Flickr </a>
+                                        <a href="https://www.flickr.com/photos/doug_from_the_uk" class="button button-icon-1" target="_blank"> Flickr </a>
                                     </footer>
                                 </td>
                                 <td>
                                     <footer class="index">
-                                        <a href="http://douglask3.github.io/pages/cycling-routes.html" class="button button-icon-1"> Photo Blog </a>
+                                        <a href="{filename}/pages/photography.md" class="button button-icon-1"> Photo Blog </a>
                                     </footer>
                                 </td>
                             </tr>
@@ -174,7 +190,7 @@ status: hidden
                 </div>
                 <div class="12u", style = "padding-top:0.33em">
                 <footer class="index">
-                    <a href="http://douglask3.github.io/pages/crafts.html" class="button-Index button-icon-1"> Crafts </a>
+                    <a href="{filename}/pages/crafts.md" class="button-Index button-icon-1"> Crafts </a>
                 </footer>
                 </div>
             </section>
@@ -192,7 +208,11 @@ status: hidden
                 <div class="4u", style = "padding:1em;">
                     <section class="box">
                         <hr>
-                            <h2> Github </h2>
+                            <h2>
+                                <a href="https://github.com/douglask3" target="_blank">
+                                    Github
+                                </a>
+                            </h2>
                         <hr>
                         <div class="github-card" data-user="douglask3" data-width="100%" data-target="blank"></div>
                         <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
@@ -201,7 +221,11 @@ status: hidden
                 <div class="4u", style = "padding:1em;">
                     <section class="box">
                         <hr>
-                            <h2> Garmin Connect </h2>
+                            <h2>
+                                <a href="https://connect.garmin.com/profile/douglask31" target="_blank">
+                                    Garmin Connect
+                                </a>
+                            </h2>
                         <hr>
                         <h3> Coming Soon </h3>
                     </section>
@@ -209,7 +233,11 @@ status: hidden
                 <div class="4u", style = "padding:1em;">
                     <section class="box">
                         <hr>
-                            <h2> Flickr </h2>
+                            <h2>
+                                <a href="https://www.flickr.com/photos/doug_from_the_uk" target="_blank">
+                                    Flickr
+                                </a>
+                            </h2>
                         <hr>
                         <a data-flickr-embed="true"  href="https://www.flickr.com/photos/doug_from_the_uk/albums/72157661416304564" title="Latest"><img src="https://farm6.staticflickr.com/5790/22940203579_845f2e2d2e_z.jpg" width="100%" alt="Latest"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
                     </section>
