@@ -18,17 +18,15 @@
 
 * 2014 PhD Ecology
   : [Macquarie University, Department of Biological Sciences, Ryde, NSW, Australia](http://bcd.mq.edu.au/?page_id=171)
-  [Modelling Australian fire regimes](http://bcd.mq.edu.au/?p=361)
-  Benchmarking and developing the LPX Dynamic Global Vegetation Model (DGVM) to improve the simulation of fire and fire-vegetation interacting. Using this new version of LPX to simulate fire, vegetation and carbon dynamics in Australia over the 21\textsuperscript{st} century
+  *Thesis: [Modelling Australian fire regimes](http://bcd.mq.edu.au/?p=361)*
 
 * 2008 [MSc Earth System Science](http://www.bristol.ac.uk/cabot/postgrad/msc-ccsp.html)
   : [University of Bristol, Department of Earth Sciences, UK](http://www.bristol.ac.uk/earthsciences/)
-  *Main dissertation: Statistical modelling of global fire regimes.*
-  Other subjects covered: Climate change science and policy; Earth system modelling; Natural hazards; Remote sensing & GIS; Isotopes and other Earth System tracers
+  *Dissertation: Statistical modelling of global fire regimes.*
 
 * 2007 [BSc (Hons.) Physics](http://www2.warwick.ac.uk/study/undergraduate/courses/f300)
   : [University of Warwick, Department of Physics, UK](http://www2.warwick.ac.uk/fac/sci/physics)
-  *Main dissertation: Modelling atmospheric effects on starlight.*
+  *Dissertation: Modelling atmospheric effects on starlight.*
 
 ------
 
@@ -47,14 +45,13 @@ University of Reading, UK.*
 
 ------
 
-### Publications
-
+### Publication Statitics
+<br>
 <<Citation info>>
-
 
 ------
 
-### Awards
+### Awards {#Awards}
 
 * 2010-2014 *[Macquarie University Research Excellence Scholarship](http://www.hdr.mq.edu.au/information_about/scholarships)*  
 : *Macquarie University, Ryde, NSW, Australia*
@@ -73,6 +70,7 @@ Vegetation-climate dynamics and ecosystem modelling, including:
 <br>-&nbsp;&nbsp;&nbsp;&nbsp; Fire dynamics and fire--climate--vegetation interactions.
 <br>-&nbsp;&nbsp;&nbsp;&nbsp; Wildfire impacts (on e.g vegetation, carbon-cycle, hydrology)
 <br>-&nbsp;&nbsp;&nbsp;&nbsp; Vegetation disturbance resistance and recovery
+<br>-&nbsp;&nbsp;&nbsp;&nbsp; Vegetation model benchmarking and diagnosis
 <br>-&nbsp;&nbsp;&nbsp;&nbsp; Plant resource allocation strategies.
 
 
@@ -89,7 +87,7 @@ Vegetation-climate dynamics and ecosystem modelling, including:
 
 ------
 
-### Personal Details {#Presonal}
+### Personal Details {#Personal}
 
 * Name: Dr Douglas I Kelley
 
@@ -116,7 +114,7 @@ Vegetation-climate dynamics and ecosystem modelling, including:
 
 * Email: [douglas.i.kelley@gmail.com](douglas.i.kelley@gmail.com)
 
-* Phone: +44 (0) 7936 726 819
+* Phone:<br> +44 (0) 7936 726 819
 
 * Web: [http://douglask3.github.io/](http://douglask3.github.io/)
 
@@ -142,6 +140,8 @@ Vegetation-climate dynamics and ecosystem modelling, including:
 : *[University of Bristol, Department of Earth Sciences, UK](http://www.bristol.ac.uk/earthsciences/)*
   __2002-2007__
   *Main dissertation: Modelling atmospheric effects on starlight*
+
+<p style="page-break-after:always;"></p>
 
 ------
 
@@ -183,24 +183,36 @@ Widening Participation
 
 ### Current Research Interests
 
-Need to change
-Doug is a Postdoctoral Research Fellow working with the Climate And Forest Ecosystem Modelling and Biosphere and Climate Dynamic groups at Macquarie University. His research focuses on modelling the interactions between wildfire, climate and vegetation. In addition, he is also working on plant resource allocation strategies. He is particularly interested in ways vegetation resist and recover after fire, and the wider implications this has on the carbon cycle and hydrology.
+My research focuses on improving our understanding of the interactions between fire, vegetation and climate, and exploring how these interactions feed impact terrestrial ecosystem properties such as carbon and hydrological cycles. I'm also involved in the continued development of a vegetation model benchmarking system; and collaborate on research exploring resource allocation and pheneology strategies, and strategies for avoiding drought mortality. Much of this involves utilising experimental and satellite data to drive more observation-driven vegetation model development.
+
+Current Research:
+
+<br>-&nbsp;&nbsp;&nbsp;&nbsp; Development and application of LPX -a coupled Dynamic Vegetetion-fire model.
+<br>-&nbsp;&nbsp;&nbsp;&nbsp; Vegetation disturbance resistance and recovery
+<br>-&nbsp;&nbsp;&nbsp;&nbsp; Statistics and observational data for benchmarking and comparing vegetation models.
+<br>-&nbsp;&nbsp;&nbsp;&nbsp; Plant resource allocation strategies.
 
 
 ------
 
 
-### Published Papers
+### Publications
 
 <<Citation info>>
+<br>
+Reviewed
 <<Publication info>>
 
-
-### Papers in Review
-
+Submitted
 : *Harrison, S. P. and Kelley, D. I.: Projected changes in Australian fire regimes during the 21st century and consequences for ecosystem, International Journal of Wildland Fire*
 : *Hantson, S., Arneth, A., Harrison, S. P., Kelley, D. I., Prentice, I. C., Rabin, S. S., Archibald, S. ...: Projected changes in Australian fire regimes during the 21st century and consequences for ecosystem, Biogeosciences, bg-2016-17*
 : *Ukkola, A, Keenan, T, Kelley, D. I., Prentice, I. C., Vegetation buffers the water-resource impacts of environmental change in regions with declining precipitation, Environmental Research Letters, ERL-102203*
+
+In Prep
+: *Kelley D. I., de Kauwe, M., Medlyn, B. Testing Allocation model assuptions in a simple ecosyste model*
+: *Harrison, S. P., Kelley, D. I., Wang, H., Herbert, A., Li, G., Bradstock, R., Fontaine, J., Enright, N., Murphy, B. P., Pekin, B. K., Penman, T., Russell-Smith, J., Wittkuhn, R. S: Patterns in the abundance of post-fire resprouting in Australia based on plot-level measurements.*
+: *Whitley, R., Kelley, D. I., de Kauwe, M., Keenan, T. F., Phendulum - A first principles model of describing savanna phenology*
+
 
 ------
 
@@ -284,6 +296,7 @@ Funded attendance at the 2013 AGU fall conference in order to present DGVM devel
 
 Postgraduate conference - best presentation
 : *[Biological Sciences, Macquarie University, Ryde, Australia](http://www.mq.edu.au/about/about-the-university/faculties-and-departments/faculty-of-science-and-engineering/departments-and-centres/department-of-biological-sciences)*
+__2011__
 Best presentation out of the departments 78 postgraduate students at the annual post-graduate conference.
 Awarded for presentation on a vegetation model benchmarking system}
 
@@ -293,11 +306,9 @@ Awarded for presentation on a vegetation model benchmarking system}
 ### Skills {#skills}
 
 
-
 Modelling
   : I have been lead developer on LPX - a high-complaexity coupled Dynamic Vegetation-Fire Model - since 2009. LPX has both Fortran and C++ components for fast (relive to it's complexity) computational times. I have recently also added a shell and R interface to fasilitate parrallization and to allow results to be easily plotted and analysed.
-
-      * See [douglask3.github.io/LPX.html](http://douglask3.gitgub.io/LPX.html) for more information.
+  :See [douglask3.github.io/LPX.html](http://douglask3.gitgub.io/LPX.html) for more information.
 
 Statistical Programming
   : Most of my research involves statistical anaylsis of large datasets and model outputs. Collaboration on many of my projects means I am fluent in most widely used statistical programming languages. Most of my work is in either R, python and matlab, but I have also performed graphical and statitical analysis using Fotran and C amongst others.
@@ -308,7 +319,7 @@ Statistical Programming
 Web Design
   : In my spare time, I have developed dynamic websites using open source content management system. My personal site is on a static host, but is maintained using a python based dynamic-site emulator. Developing and maintaining these sites have allowed me to become familiar with many contengt managment systems (i.e. wordpress, concrete5 etc) and fluent in HTML/CSS, PHP and Markdown. I have linked Markdown with R and python when sharing and presenting results from model development and anlaysis.
         * See [eppingdac.com.au](http://www.eppingdac.com.au/), an example of a website I have developed using Concrete5 Content Managment System
-        * See [douglask3.github.io](http://douglask3.gothub.io), and exmaple of a website produced using a simple dynamic-site emulator.
+        * See [douglask3.github.io](http://douglask3.gothub.io), and example of a website produced using a simple dynamic-site emulator.
 
 Publishing
   : As well has publishing papers, I have also written manuals, reports and newletters using a variety of languages and software products, including (aside from standard office/open office):
@@ -322,7 +333,7 @@ Publishing
 ### Software Tool
 Collaborations on various projects has lead me to develop software packages to share across projects teams.
 Some these perform statistical model-comparisons; others run vegetation models themselves, and some help keep track for workflows and provenance when using a version control system model.
-Below are some of the most used software packages. More detail can be doun at [douglask3.github.io/tools](http://douglask3.github.io/tools), while an exhustive list can be found on my bitbucket and github repository pages detailed in the contact section.
+Below are some of the most used software packages. More detail can be found at [douglask3.github.io/tools](http://douglask3.github.io/tools), while an exhustive list can be found on my bitbucket and github repository pages detailed in the contact section.
 
 [Software Carpentry](http://software-carpentry.org/)
 : __Feb 2013__
@@ -336,11 +347,6 @@ Below are some of the most used software packages. More detail can be doun at [d
   : CVS / Subversion
   : [git](https://bitbucket.org/douglask3)
 
-------
-
-### Collaborations
-
-Doug is a Postdoctoral Research Fellow working with the Climate And Forest Ecosystem Modelling and Biosphere and Climate Dynamic groups at Macquarie University. His research focuses on modelling the interactions between wildfire, climate and vegetation. In addition, he is also working on plant resource allocation strategies. He is particularly interested in ways vegetation resist and recover after fire, and the wider implications this has on the carbon cycle and hydrology.
 
 ------
 
@@ -359,7 +365,8 @@ Student Union involvement [Web-design](http://www.eppingdac.com.au/), Communicat
 Digital Photography and Art
 : *[Open Univesity, UK](http://www.open.ac.uk/)*
   __2002-2008__
-  [Open University undergrad course in digital photography and image manipulation](http://www.open.ac.uk/library/digital-archive/module/xcri:T189/study). See [www.flickr.com/photos/doug_from_the_uk](http://www.flickr.com/photos/doug_from_the_uk/)
+  [Open University undergrad course in digital photography and image manipulation](http://www.open.ac.uk/library/digital-archive/module/xcri:T189/study). <br>
+  See [www.flickr.com/photos/doug_from_the_uk](http://www.flickr.com/photos/doug_from_the_uk/)
 
 
 ------
@@ -368,12 +375,44 @@ Digital Photography and Art
 
 ### Referees
 
-Doug is a Postdoctoral Research Fellow working with the Climate And Forest Ecosystem Modelling and Biosphere and Climate Dynamic groups at Macquarie University. His research focuses on modelling the interactions between wildfire, climate and vegetation. In addition, he is also working on plant resource allocation strategies. He is particularly interested in ways vegetation resist and recover after fire, and the wider implications this has on the carbon cycle and hydrology.
+* Prof. Sandy Harrison
+  : *Professor in Global Palaeoclimates and Biogeochemical Cycles*
+  Department of Geography and Environmental Science,
+  School of Archaeology, Geography and Environmental Science,
+  The University of Reading,
+  Whiteknights,
+  Reading
+  RG6 6AB
+  U<br>
+  Email: s.p.harrison@reading.ac.uk
+
+* Prof. Colin Prentice
+  : *Chair of Biosphere and Climate Impacts*
+  Grantham Institute for Climate Change and Department of Life Sciences,
+  Imperial College,
+  Silwood Park Campus,
+  Ascot
+  SL5 7PY
+  UK
+  <br>
+  Email: c.prentice@imperial.ac.uk
+
+* Prof. Belinda Medlyn
+  : *Chair of Biosphere and Climate Impacts*
+  Hawkesbury Institute for the Environment,
+  Western Sydney University,
+  Locked Bag 1797,
+  Penrith,
+  NSW
+  Australia
+  2751
+  <br>
+  Email: b.medlyn@westernsydney.edu.au
 
 ------
 
 ### Footer {#footer}
 
-Douglas Kelley -- [douglas.i.kelley@gmail.com](craig@there4development.com) -- +44 (0) 7936 726 819
+Douglas Kelley -- [douglas.i.kelley@gmail.com](douglas.i.kelley@gmail.com) -- +44 (0) 7936 726 819
 
 ------
