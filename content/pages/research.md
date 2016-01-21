@@ -1,80 +1,10 @@
 Title: Research Interests
 Date: 2015-10-01 16:30
+Mod: 2015-10-01 16:30
 Category: Research
 status: published
-
-<hr class="title">
-    <h2> Research </h2>
-<hr class="title">
-
-
-<div class="12u">
-    <section>
-    <!-- LPX -->
-        <div class="3u", style = "padding:1em;">
-            <section class="box">
-                <header>
-                    <hr>
-                    <h2>LPX Dynamic Global Vegetation Model</h2>
-                    <hr>
-                </header>
-                <img src="{filename}/images/LPX.png" alt="LPX diagram" style="width: 100%;"/>
-                <br>&nbsp;<br>&nbsp;<br>
-                Development and application of LPX -a coupled Dynamic Vegetetion-fire model.
-                <footer class="actions">
-                    <a href="{filename}/pages/LPX.md" class="button button-icon button-icon-1">See Project</a>
-                </footer>
-            </section>
-        </div>
-    <!-- running-Adventures -->
-        <div class="3u", style = "padding:1em;">
-            <section class="box">
-                <header>
-                    <hr>
-                    <h2>Vegegtation model inter-comparison benchmarking </h2>
-                    <hr>
-                </header>
-                <img src="{filename}/images/Benchmarking-Fig1.png" alt="Running Style" style="width: 100%;"/>
-                <br>&nbsp;<br>
-                Statistics and observational data for benchmarking and comparing vegetation models.
-                <footer class="actions">
-                    <a href="{filename}/pages/benchmarking.md" class="button button-icon button-icon-1">See Project</a>
-                </footer>
-            </section>
-        </div>
-    <!-- Hiking -->
-        <div class="3u", style = "padding:1em;">
-            <section class="box">
-                <header>
-                    <hr>
-                    <h2>Disturbance and Resistance and Recovery Traits</h2>
-                    <hr>
-                </header>
-                <img src="{filename}/images/Epicormic.png" alt="Running Style" style="width: 100%;"/>
-                Hiking routes descriptions & GPS.
-                <footer class="actions">
-                    <a href="{filename}/running/hiking-adventures.md" class="button button-icon button-icon-1">See Routes</a>
-                </footer>
-            </section>
-        </div>
-    <!-- Cycling -->
-        <div class="3u", style = "padding:1em;">
-            <section class="box">
-                <header>
-                    <hr>
-                    <h2>Phendulum</h2>
-                    <hr>
-                </header>
-                <img src="https://farm9.staticflickr.com/8733/16852447650_e7b021b438_z_d.jpg" alt="Running Style" style="width: 100%;"/>
-                Some interesting (but easy) cycle rides.
-                <footer class="actions">
-                    <a href="{filename}/running/cycling-adventures.md" class="button button-icon button-icon-1">See Rides</a>
-                </footer>
-            </section>
-        </div>
-    </section>
-</div>
-
+Template: page_bottom_4feed
+ArtitleRow: 4
 
 My research focuses on improving our understanding of the interactions between fire, vegetation and climate, and exploring how these interactions feed through to ... such as the carbon cycle and hydrology. I am particularly interested in ways to utilise experimental and satellite data to develop more evidence based models.
 
