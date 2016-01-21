@@ -37,7 +37,7 @@ status: hidden
                                 </td>
                                 <td>
                                     <footer class = "index" style="padding-right:0.25em;">
-                                        <a href="{filename}/pages/research.md" class="button button-icon-1"> Current Projects </a>
+                                        <a href="{filename}/pages/research.md#currentResearch" class="button button-icon-1"> Current Projects </a>
                                     </footer>
                                 </td>
                             </tr>
