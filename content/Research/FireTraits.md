@@ -1,5 +1,5 @@
-Title: Disturbance and Resistance and Recovery Traits
-Date: 0001-01-02
+Title: Traits for Resistance and Recovery to Disturbance
+Date: 2014-11-01
 Category: Research Interests
 status: published
 picture: http://douglask3.github.io/images/Epicormic.png

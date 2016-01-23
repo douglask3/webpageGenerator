@@ -1,5 +1,5 @@
 Title: LPX Dynamic Global Vegetation Model
-Date: 0001-01-01
+Date: 2015-01-22
 Category: Research Interests
 status: published
 picture: http://douglask3.github.io/images/LPX.png
