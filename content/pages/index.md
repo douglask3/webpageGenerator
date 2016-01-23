@@ -126,7 +126,9 @@ status: hidden
                                 <h2> Routes and "Adventures" </h2>
                             <hr>
                         </header>
-                        <a href="{filename}/pages/running.md" class="image image-full"><img src="{filename}/images/Running.jpg"/></a>
+                        <section style = "height: 183.52px;">
+                        <a href="{filename}/pages/running.md" class="image image-full"><img src="https://farm5.staticflickr.com/4052/4322203086_f33f2241a2_z_d.jpg"/></a>
+                        </section>
                         <table style="width:100%;">
                             <tr>
                                 <footer class="index" style = "padding-bottom: 0.33em">
@@ -170,7 +172,7 @@ status: hidden
                                 </h2>
                             <hr>
                         </header>
-                        <a href="{filename}/pages/photography.md" class="image image-full"><img src="{filename}/images/Upper_Eskdale.jpg"/></a>
+                        <a href="{filename}/pages/photography.md" class="image image-full image-index"><img src="{filename}/images/Upper_Eskdale.jpg"/></a>
                         <br>
                         <table style="width:100%;">
                             <tr>
