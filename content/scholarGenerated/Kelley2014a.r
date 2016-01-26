@@ -3,7 +3,7 @@ header = 'Title: LPX-Mv1
 Date: 2014-12-01
 Category: Publications
 status: published
-tag: Publications
+tags: Publications, LPX Dynamic Global Vegetation Model, Vegetation model inter-comparison benchmarking, Traits for Resistance and Recovery to Disturbance
 
 The Land surface Processes and eXchanges (LPX) model is a fire-enabled dynamic
 global vegetation model that performs well globally but has problems

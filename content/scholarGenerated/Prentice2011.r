@@ -3,7 +3,7 @@ header = 'Title: LPX
 Date: 2011-12-01 00:00
 Category: Publications
 status: published
-tag: Publications
+tags: Publications, LPX Dynamic Global Vegetation Model
 
 Four CO2 concentration inversions and the Global Fire Emissions Database (GFED)
 versions 2.1 and 3 are used to provide benchmarks for climate-driven modeling of

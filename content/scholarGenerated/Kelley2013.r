@@ -3,7 +3,7 @@ header = 'Title: Vegetation Model Benchmarking system
 Date: 2013-12-01 00:00
 Category: Publications
 status: published
-tag: Publications
+tags: Publications, Vegetation model inter-comparison benchmarking, LPX Dynamic Global Vegetation Model
 
 We present a benchmark system for global vegetation models. This system provides
 a quantitative evaluation of multiple simulated vegetation properties, including

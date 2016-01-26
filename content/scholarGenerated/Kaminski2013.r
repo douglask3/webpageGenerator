@@ -3,7 +3,7 @@ header = 'Title: The BETHY/JSBACH Carbon Cycle Data Assimilation System: experie
 Date: 2013-12-01 00:00
 Category: Publications
 status: published
-tag: Publications
+tags: Publications
 
 We present the concept of the Carbon Cycle Data Assimilation System and describe
 its evolution over the last two decades from an assimilation system around a

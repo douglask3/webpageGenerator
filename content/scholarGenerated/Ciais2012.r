@@ -3,7 +3,7 @@ header = 'Title: Large inert carbon pool in the terrestrial biosphere during the
 Date: 2012-12-01 00:00
 Category: Publications
 status: published
-tag: Publications
+tags: Publications, LPX Dynamic Global Vegetation Model
 
 During each of the late Pleistocene glacial–interglacial transitions,
 atmospheric carbon dioxide concentrations rose by almost 100 ppm. The sources

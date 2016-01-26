@@ -3,7 +3,7 @@ header = 'Title: Implications of introducing realistic fire response traits in a
 Date: 2013-08-01 00:00
 Category: Publications
 status: published
-tag: Publications
+tags: Publications, Traits for Resistance and Recovery to , LPX Dynamic Global Vegetation Model
 
 Bark thickness is a key trait protecting woody plants against fire damage,
 while the ability to resprout is a trait that confers competitive advantage

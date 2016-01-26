@@ -3,7 +3,7 @@ Date: 0001-01-04
 Category: Running
 status: published
 picture: http://douglask3.github.io/images/Running.jpg
-tag: Running
+tags: Running
 Summary: Training and exercise log powered by garmin connect
 template: article_with_summary_no_date
 

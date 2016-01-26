@@ -3,7 +3,7 @@ Date: 2015-01-22
 Category: Research Interests
 status: published
 picture: http://douglask3.github.io/images/LPX.png
-tag: Research Interests
+tags: Research Interests
 Summary: Development and application of LPX -a coupled Dynamic Vegetetion-fire model.
 template: article_feed
 

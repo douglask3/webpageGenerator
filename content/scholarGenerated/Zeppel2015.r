@@ -3,7 +3,7 @@ header = 'Title: Drought and resprouting plants
 Date: 2015-01-01 00:00
 Category: Publications
 status: published
-tag: Publications
+tags: Publications, Traits for Resistance and Recovery to Disturbance, LPX Dynamic Global Vegetation Model
 
 Many species have the ability to resprout vegetatively after a substantial loss
 of biomass induced by environmental stress, including drought. Many of the

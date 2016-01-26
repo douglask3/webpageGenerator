@@ -3,7 +3,7 @@ header = 'Title: Future Carbon in Australia
 Date: 2014-12-01 00:00
 Category: Publications
 status: published
-tag: Publications
+tags: Publications, Traits for Resistance and Recovery to Disturbance, LPX Dynamic Global Vegetation Model
 
 Climate projections show Australia becoming significantly warmer during the 21st
 century, and precipitation decreasing over much of the continent. Such changes
