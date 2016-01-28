@@ -17,8 +17,8 @@
 ### Academic qualification
 
 * 2014 PhD Ecology
-  : [Macquarie University, Department of Biological Sciences, Ryde, NSW, Australia](http://bcd.mq.edu.au/?page_id=171)
-  *Thesis: [Modelling Australian fire regimes](http://bcd.mq.edu.au/?p=361)*
+  : [Macquarie University, Department of Biological Sciences, Ryde, NSW, Australia](https://bitbucket.org/teambcd/)
+  *Thesis: [Modelling Australian fire regimes](https://drive.google.com/file/d/0B6T4MHlQ-DuNS2ZsV09mdkdwYms/view?usp=sharing)*
 
 * 2008 [MSc Earth System Science](http://www.bristol.ac.uk/cabot/postgrad/msc-ccsp.html)
   : [University of Bristol, Department of Earth Sciences, UK](http://www.bristol.ac.uk/earthsciences/)
@@ -45,7 +45,7 @@ University of Reading, UK.*
 
 ------
 
-### Publication Statitics
+### Publication Statistics
 <br>
 <<Citation info>>
 
@@ -105,12 +105,12 @@ Vegetation-climate dynamics and ecosystem modelling, including:
   <br> UK
 
 * Home Address
- : Flat 40
- <br> 18 Oxford Road
- <br> Reading
- <br> Berkshire
- <br> RG1 7LB
- <br> UK
+  : Flat 40
+  <br> 18 Oxford Road
+  <br> Reading
+  <br> Berkshire
+  <br> RG1 7LB
+  <br> UK
 
 * Email: [douglas.i.kelley@gmail.com](douglas.i.kelley@gmail.com)
 
@@ -124,8 +124,8 @@ Vegetation-climate dynamics and ecosystem modelling, including:
 ### Higher Education {#experience}
 
 [PhD Ecology](https://drive.google.com/file/d/0B6T4MHlQ-DuNS2ZsV09mdkdwYms/view?usp=sharing)
-: *[Macquarie University, Department of Biological Sciences, Ryde, NSW, Australia](http://bcd.mq.edu.au/?page_id=171)
-[Modelling Australian fire regimes](http://bcd.mq.edu.au/?p=361)*
+: *[Macquarie University, Department of Biological Sciences, Ryde, NSW, Australia](http://bio.mq.edu.au/our-research/)
+[Modelling Australian fire regimes](https://drive.google.com/file/d/0B6T4MHlQ-DuNS2ZsV09mdkdwYms/view?usp=sharing)*
   __2010-2014__
   Benchmarking and developing the LPX Dynamic Global Vegetation Model (DGVM) to improve the simulation of fire and fire-vegetation interacting. Using this new version of LPX to simulate fire, vegetation and carbon dynamics in Australia over the 21st century. Thesis can be downloaded from [goo.gl/9YjwKw](goo.gl/9YjwKw)
 
@@ -181,17 +181,42 @@ Widening Participation
 
 ------
 
-### Current Research Interests
+### Research Interests
 
-My research focuses on improving our understanding of the interactions between fire, vegetation and climate, and exploring how these interactions feed impact terrestrial ecosystem properties such as carbon and hydrological cycles. I'm also involved in the continued development of a vegetation model benchmarking system; and collaborate on research exploring resource allocation and pheneology strategies, and strategies for avoiding drought mortality. Much of this involves utilising experimental and satellite data to drive more observation-driven vegetation model development.
+My research focuses on improving our understanding of the interactions between vegetation and climate, and exploring how these interactions impact terrestrial ecosystem properties such as carbon and hydrological cycles. Much of this involves utilising experimental and satellite data for more observation-driven vegetation model development and benchmarking. Most of this has been exploring climate and vegetative controls and fire, and the impact fire has on ecosystem, atmposhperic emission and the carbon cycle, and vegetation-controlled hydrology. I am also involved in projects that explore plant resource allocation, phenology and drought recovery stratagies.
+&nbsp; <br>
+My current research projects include:
 
-Current Research:
+<h3>&nbsp;</h3>
 
-<br>-&nbsp;&nbsp;&nbsp;&nbsp; Development and application of LPX -a coupled Dynamic Vegetetion-fire model.
-<br>-&nbsp;&nbsp;&nbsp;&nbsp; Vegetation disturbance resistance and recovery
-<br>-&nbsp;&nbsp;&nbsp;&nbsp; Statistics and observational data for benchmarking and comparing vegetation models.
-<br>-&nbsp;&nbsp;&nbsp;&nbsp; Plant resource allocation strategies.
+Development of the LPX coupled Dynamic Vegetetion-fire model.
+: *[douglask3.github.io/lpx-dynamic-global-vegetation-model](http://douglask3.github.io/lpx-dynamic-global-vegetation-model.html)*
+  Much of my thesis focussed on the assessment and development of the LPX-DGVM-fire model to better represent fire and fire-adatped vegetation in tropical savanna ecosystems. Continued development strands include :
+  <br>-&nbsp;&nbsp;&nbsp;&nbsp; Improving fire-model performace for forest ecoystems
+  <br>-&nbsp;&nbsp;&nbsp;&nbsp; Paramertization of the carbon cycle and trace gas emissions
+  <br>-&nbsp;&nbsp;&nbsp;&nbsp; Continued development of disturbance resilance and resistance traits - e.g. resprouting after fire and drought.
 
+Vegetation model benchmarking and inter-comparison.
+: *[douglask3.github.io/vegetation-model-inter-comparison-benchmarking](http://douglask3.github.io/vegetation-model-inter-comparison-benchmarking.html)*
+  I am the main developer and maintainer of the most widely used vegetation-model benchmarking system, which qualitativly assess model performance for a varity and vegetation and land surface processes. Current work includes:
+  <br>-&nbsp;&nbsp;&nbsp;&nbsp; Incorporation for fire regime observatations.
+  <br>-&nbsp;&nbsp;&nbsp;&nbsp; Inter-model comparisons for the [fireMIP project](http://www.mpic.de/fileadmin/user_upload/images_presse/Projects/IBBI/pdfs/Hantson_FireMIP.pdf)
+  <br>-&nbsp;&nbsp;&nbsp;&nbsp; R-package development
+
+Vegetation disturbance resistance and recovery databases
+: *[douglask3.github.io/traits-for-resistance-and-recovery-to-disturbance](http://douglask3.github.io/traits-for-resistance-and-recovery-to-disturbance.html)*
+  I have been involved in the compilation of two databases compliling variations reistance and recovery traits across plant species and geogrpahic locations:
+  <br>-&nbsp;&nbsp;&nbsp;&nbsp; Bark Thickness as protection against fire.
+  <br>-&nbsp;&nbsp;&nbsp;&nbsp; Resprouting as a recovery to extreme distrubance from fire and drought.
+
+Plant resource allocation strategies.
+: More recently, I have become involved in research projects exploring wider vegetation dynamics and responses to enviromental change including:
+  <br>-&nbsp;&nbsp;&nbsp;&nbsp; The testing of conceptual carbon allocation stratagies in a vegetation model framework, and the response of the startagies to changing climate and increasing CO2 fertilization.
+  <br>-&nbsp;&nbsp;&nbsp;&nbsp; Development of a simple dry-season phenology model for tropical grass and woodland ecosystems.
+
+<h3>&nbsp;</h3>
+
+For more detail on all these projects, see [douglask3.github.io/pages/research-interests](http://douglask3.github.io/pages/research-interests.html)
 
 ------
 
