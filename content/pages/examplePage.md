@@ -16,10 +16,10 @@ Links
 =====
 See below intra-site link examples in Markdown format.
 
-[a link relative to the current file to about me]({filename}about_me.md)
+[a link relative to the current file to about me]({filename}cv.md)
 
 
-[a link relative to the content root about me]({filename}/pages/about_me.md)
+[a link relative to the content root about me]({filename}/pages/cv.md)
 
 
 Images and Documents
