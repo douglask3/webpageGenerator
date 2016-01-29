@@ -4,7 +4,7 @@ source('libs/GenerateRfiles.r')
 MakeToolDocument <- function(header, file, footer, outputFile) {
     library('RCurl')
     print(file)
-    file = getURL("https://raw.githubusercontent.com/douglask3/cGDAY/master/README.rst")
+    file = getURL(file)
     out  = paste(c(header, file, footer), collapse = "\n\n")
 
     cat(out, file = outputFile, sep = "\n")
