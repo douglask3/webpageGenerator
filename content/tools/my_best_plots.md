@@ -4,7 +4,7 @@ Category: Tools
 status: published
 template: index2
 tags: Tools
-summary: An example of plots, either published or submitted, which have been entirely coded (i.e, have not been adapted or finished in image manipulation software, such as photoshop/gimp ect)
+summary: An example of plots, either published or submitted, which have been generated entirely by code (i.e, have not been adapted or finished in image manipulation software, such as photoshop/gimp ect). Links to code are provided. I shall start adding tutorials soon...
 
 <div class="12u">
     <section class = "box">
