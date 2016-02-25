@@ -45,8 +45,6 @@ DEFAULT_PAGINATION = 6
 DEFAULT_DATE_FORMAT = '%d %B %Y'
 
 
-STATIC_PATHS = ['images', 'docs']
-
 #TEMPLATE_PAGES = {'/home/doug/Documents2/webpageGenerator/html5-dopetrope/templates/content_at_top.html': 'dest/photography.html'}
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
@@ -74,8 +72,17 @@ MENUITEMS = (
     ('CV', '/pages/cv.html'),
     ('Research Interests', '/pages/research-interests.html'),
     ('Publications', '/pages/publications.html'),
-    ('Tools', '/pages/tools.html'),
+    ('Tools', '/pages/tools-and-tutorials.html'),
     ('Photography', '/pages/photography.html'),
     ('Running', '/pages/running.html'),
     ('Contact', '#contact'),
 )
+
+STATIC_PATHS = [
+    'images',
+    'docs',
+    'extra/favicon.ico'
+]
+EXTRA_PATH_METADATA = {
+    'extra/favicon.ico': {'path': 'favicon.ico'}
+}
