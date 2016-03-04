@@ -76,18 +76,61 @@ The path to the benchmark datasets
 
     outputs_dir.modelMasks = outputs/Masks'
 
-The path and start of pattern of the mask from model and observations, to be applied before metric comparison
+The path and start of pattern of the mask from model and observations, to be applied before metric comparison.
 
 ###  Model Information
 <hr>
 
-More info coming soon
+**Model.RAW** lists information about the model outputs and how ethy should be processed.
+Each model forms an item in a list, and each item has three entires:
 
+* *Directory name*, or <<NAME>> in model data section
+* *Processing function*, the function used to process the particular model.
+  Most models will get away with ``process.default``. If a new model needs a new
+  function, this can be defined in a separate file and placed in 'libs' dir or its
+  sub-directories, and it will be automatically sourced when the system is run
+* *Start date*, in decimal years - the timing of the first day of the models run.
+
+For example
+
+    Model.RAW = list(
+                    CLM  = c('CLM' , process.CLM , 1996),
+                    CTEM = c('CTEM', process.CTEM, 1859))
+
+
+**Model.Variable** Description soon
+For example
+
+    Model.Variable = list( #Line 1  variable name; Line 2  scaling; Line 3 - timestep
+        varname  = rbind(c("BurntArea", "gpp"    , "ModelMask"),
+                         c(100        , 1/1000   , 1          ),
+                         c('Monthly'  , 'Annual' , "Monthly"  ),
+                         c('mean'     , 'sum'    , "sum"      )),
+        CLM      = rbind(c("BAF"      , "gpp"    , "cSoilt"   ),
+                         c(100        , 1        , 1          ),
+                         c('Daily'    , 'Monthly', "Monthly"  )),
+        CTEM     = rbind(c("burntArea", "gpp"    , "cSoil"    ),
+                         c(100        , 1        , 1          ),
+                         c('Monthly'  , 'Daily'  , "Monthly"  )))
+
+
+**Model.plotting** Description soon
+For example
+
+    Model.plotting = rbind(#Title  #Colour
+                  CLM  = c('CLM' , 'red'     ),
+                  CTEM = c('CTEM', 'green'   ))
 
 ###  Comparison Info
 <hr>
 
 More info coming soon
+
+#### Types
+
+**Spatial**
+
+
 
 
 ###  Model and Comparison selection
@@ -128,7 +171,7 @@ For info on how to use this package:
 ### TM2r
 <hr>
 
-This package will be used to calculate atmospheric seasonal concentrations of CO<sub>2</sub> from model outputs of fluxes from Net Primary Production, hetrotrophic respiration, and fire. [Click here](https://github.com/douglask3/tm2R) for code development. More info comign soon.
+This package will be used to calculate atmospheric seasonal concentrations of CO<sub>2</sub> from model outputs of fluxes from Net Primary Production, hetrotrophic respiration, and fire. [Click here](https://github.com/douglask3/tm2R) for code development. More info coming soon.
 
 ### gitBasedProjects
 <hr>
