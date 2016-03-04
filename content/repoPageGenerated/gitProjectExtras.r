@@ -6,7 +6,8 @@ Category: Tools
 status: published
 tags: Tools and Tutorials
 Template: article_elsewhere
-summary: <div class="github-card" data-user="douglask3" data-repo="gitProjectExtras" data-target="blank" data-width = "100%"></div><script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+picture: http://douglask3.github.io/images/Rlogo.png
+summary: Allows linking code and outputs with information about git revision numbers and storage locations. Also contains tools for setting up a proper project structure and common git commands that can be called within R.
 '
 
 file = "https://raw.githubusercontent.com/douglask3/gitProjectExtras/master/README.md"
