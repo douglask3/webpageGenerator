@@ -28,10 +28,11 @@ When I have finished initial development, I will provide a link for the latest '
 
 Benchmark data is on the fireMIP server. Contact [Stijn Hantson](http://www.imk-ifu.kit.edu/staff_2107.php) for info. Each model should be stored in the following way:
 
-    <<NAME>>/<<EXP>>/<<OUTPUTS>>
+    <<PATH>>/<<NAME>>/<<EXP>>/<<OUTPUTS>>
 
 Where:
 
+* PATH is a common path to all models, which must be defined in the cfg file as ``outputs_dir.BenchmarkData``
 * NAME is a unique name for the model. It doesn't not have to be the actual model name, but can be for example an abbriviation. So long as no other model shares that name
 * EXP is the experiment (i.e "SF1")
 * OUTPUTS: all the model outputs. These should be netcdf files. The can be individually zipped with gzip. And they are allowed to be in different directories.
@@ -65,8 +66,17 @@ What mask to apply to the spatial comparisons. The options are still comoing onl
 ### Paths
 <hr>
 
-More info coming soon
+    data_dir.ModelOuutputs = 'data/ModelOutputs/'
 
+The path to model output data (<<PATH>> in model data section)
+
+    data_dir.BenchmarkData = 'data/BenchData/'
+
+The path to the benchmark datasets
+
+    outputs_dir.modelMasks = outputs/Masks'
+
+The path and start of pattern of the mask from model and observations, to be applied before metric comparison
 
 ###  Model Information
 <hr>
