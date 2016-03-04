@@ -124,13 +124,40 @@ For example
 ###  Comparison Info
 <hr>
 
-More info coming soon
+Infomrmation for comparisons are in a list per comparison. There a number of common
+items each list must contain, along with some extra items specific to the
+comparison type:
 
-#### Types
+* *ObsFile* is the filename, relative to ``data_dir.BenchmarkData`` that the
+  observation is contained in
+* *ComparisonFun* the function which will be used to make the comparison.
+   Available functions include:
 
-**Spatial**
+   - FullNME, ...
+   - Others listed soon
 
 
+#### Spatial
+Spatial comparisons can be an NME comparisons of Annual Average or itemized MM comparisons.
+
+*For NME*
+
+
+
+  BurntArea.Spacial = list(obsFile       = "Fire_GFEDv4_Burnt_fraction_0.5grid9.nc",
+                           obsVarname    = "mfire_frac",
+                           obsLayers     = 8:127,
+                           obsStart      = 1996,
+                           ComparisonFun = FullNME,
+                           plotArgs      = plotArgs)
+
+where ``plotArgs`` are defined as:
+
+  BurntArea.Spacial = list(cols    = c('white', "#EE8811", "#FF0000", "#110000"),
+                           dcols   = c('#0000AA', '#2093FF', '#C0D0FF','white',
+                                          '#FFD793', "#F07700", "#AA0000"),
+                           limits  = c(0.001,.01,.02,.05,.1,.2),
+                           dlimits = c(-0.2,-0.1,-0.5,-0.01,0.01,0.05,0.1, 0.2))
 
 
 ###  Model and Comparison selection
