@@ -11,7 +11,7 @@ setwd(pkd)
 source('r2cv.r')
 
 
-r2cv(file = 'example.r', outPath = otd[1])
-r2cv(file = 'example-long.r', outPath = otd[2])
+r2cv(file = 'example-cv-short.r', outPath = otd[1])
+r2cv(file = 'example-cv-long.r', outPath = otd[2])
 
 setwd(cwd)
